@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Darllan A.
 
-<img width="100%" src="https://ibb.co/QDTnFwn" alt="my banner">
+<img width="100%" src="https://imgur.com/vSoZOPJ" alt="my banner">
 
 I'm a beginer programer and web developer. I study web development and i will study java,react.js, node.js and others
 
