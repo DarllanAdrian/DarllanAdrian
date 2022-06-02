@@ -5,11 +5,8 @@
 I'm a beginer programer and web developer. I study web development and i will study java,react.js, node.js and others
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on My portfolio</p>
-<p>🌱 I'm currently learning HTML,CSS,JS</p>
 <p>💬 Ask me about Front-end, Web sites</p>
 <p>📫 How to reach me? darllanadrian9@gmail.com</p>
-<p>I regularly write articles on <a href="">https://github.com/DarllanAdrian</a></p>
 <p>⚡ Fun Fact: I don't like wasting time on instagram</p>
 
 ## 💻 Skills
