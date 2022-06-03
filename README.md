@@ -3,6 +3,7 @@
 I'm a beginer programer and web developer. I study web development and i will study JavaScript,react.js, node.js and others
 
 ## 💫 Liitle Bit More About Me
+<p>💫 I'm currently learning HTML, CSS, JavaScript, NODE.js, SQL</p>
 <p>💬 Ask me about Front-end, Web sites</p>
 <p>📫 How to reach me? darllanadrian9@gmail.com</p>
 <p>⚡ Fun Fact: I don't like wasting time on instagram</p>
