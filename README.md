@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.ibb.co/3kd37jk/github-header-image.png" alt="my banner">
 
-Dev Full stack, muita História para escrever, ganhando experiência com teoria e prática com as principais tecnologias do desenvolvimento web como HTML, CSS e JS
+Dev Full stack, ganhando experiência com teoria e prática com as principais tecnologias do desenvolvimento web como HTML, CSS, JS entre outras Back end
 
 ## 💫 Liitle Bit More About Me
 <p>💫 I'm currently learning HTML, CSS, JavaScript, NODE.js, SQL</p>
