@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.ibb.co/3kd37jk/github-header-image.png" alt="my banner">
 
-I'm a beginer programer and web developer. I study web development and i will study JavaScript,react.js, node.js and others
+17 anos e muita História para escrever, ganhando experiência com teoria e prática com as principais tecnologias do desenvolvimento web como HTML, CSS e JS
 
 ## 💫 Liitle Bit More About Me
 <p>💫 I'm currently learning HTML, CSS, JavaScript, NODE.js, SQL</p>
